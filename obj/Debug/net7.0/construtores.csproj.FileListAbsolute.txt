@@ -1,0 +1,14 @@
+C:\github\cursos\cs\construtores\bin\Debug\net7.0\construtores.exe
+C:\github\cursos\cs\construtores\bin\Debug\net7.0\construtores.deps.json
+C:\github\cursos\cs\construtores\bin\Debug\net7.0\construtores.runtimeconfig.json
+C:\github\cursos\cs\construtores\bin\Debug\net7.0\construtores.dll
+C:\github\cursos\cs\construtores\bin\Debug\net7.0\construtores.pdb
+C:\github\cursos\cs\construtores\obj\Debug\net7.0\construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\cursos\cs\construtores\obj\Debug\net7.0\construtores.AssemblyInfoInputs.cache
+C:\github\cursos\cs\construtores\obj\Debug\net7.0\construtores.AssemblyInfo.cs
+C:\github\cursos\cs\construtores\obj\Debug\net7.0\construtores.csproj.CoreCompileInputs.cache
+C:\github\cursos\cs\construtores\obj\Debug\net7.0\construtores.dll
+C:\github\cursos\cs\construtores\obj\Debug\net7.0\refint\construtores.dll
+C:\github\cursos\cs\construtores\obj\Debug\net7.0\construtores.pdb
+C:\github\cursos\cs\construtores\obj\Debug\net7.0\construtores.genruntimeconfig.cache
+C:\github\cursos\cs\construtores\obj\Debug\net7.0\ref\construtores.dll
